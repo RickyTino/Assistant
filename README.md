@@ -1,15 +1,15 @@
 # Assistant
 Once a circulum design of mine which would be also used by myself.
 
-Changelog:
+Previous Changelog (Before Uploading it to Github):
 
-V0.1.1 Beta1 Build70105
+V1.1 Beta1 Build70105
 -----------------------------------------------------------------
 
 第一个功能完整的Beta测试版，实现了所有标注的功能。
 
 
-V0.1.2 Beta1 Build70106
+V1.2 Beta1 Build70106
 -----------------------------------------------------------------
 优化： 
 1、将默认的透明度更改至230， 默认背景更改为无背景；
@@ -26,7 +26,7 @@ V0.1.2 Beta1 Build70106
 2、只有一周上课的课程显示出现错误。
 
 
-V0.1.2 Beta2 Build70109
+V1.2 Beta2 Build70109
 -----------------------------------------------------------------
 优化：
 1、便笺新增了滚动条，并且可以自定义窗体大小，窗体大小自动保存；
